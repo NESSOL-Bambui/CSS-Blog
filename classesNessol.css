@@ -1,0 +1,10 @@
+.comando {
+    height: 45px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    color: #444;
+    padding: 0px 15px;
+
+    display: flex;
+    align-items: center;
+}
